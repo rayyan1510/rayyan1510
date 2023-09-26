@@ -8,6 +8,7 @@
 <a href = "https://www.instagram.com/muhammad_rayyan1510/" alt="Instagram"><img src="https://img.icons8.com/fluency//000000/instagram-new.png" height="50" width="50" style= margin-right:15px;/></a><br>
 My Instagram
 
+<a href = "https://www.figma.com/@Mhd_Rayyan" alt="Figma"><img src="https://icons8.com/icon/zfHRZ6i1Wg0U/figma" height="50" width="50" style= margin-right:15px;/></a><br> My Portofolio UI Design
 
 <!--
 **rayyan1510/rayyan1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
